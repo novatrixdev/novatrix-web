@@ -43,7 +43,7 @@ export const ua = {
   'home.why.expert.desc': 'Досвідчені розробники та дизайнери',
   'home.why.agile.title': 'Гнучкий Процес',
   'home.why.agile.desc': 'Гнучка та ітеративна розробка',
-  'home.why.support.title': 'Підтримка 24/7',
+  'home.why.support.title': 'Підтримка',
   'home.why.support.desc': 'Завжди доступні, коли ви потребуєте',
 
   'home.cta.title': 'Готові Почати Свій Проєкт?',
@@ -77,7 +77,7 @@ export const ua = {
 
   'services.cloud.title': 'Хмарні Рішення',
   'services.cloud.desc': 'Масштабована хмарна інфраструктура та розгортання',
-  'services.cloud.feature1': 'Інтеграція AWS та Azure',
+  'services.cloud.feature1': 'Cloud Інтеграція',
   'services.cloud.feature2': 'DevOps та CI/CD',
   'services.cloud.feature3': 'Міграція в хмару',
   'services.cloud.feature4': 'Serverless архітектура',
@@ -91,7 +91,7 @@ export const ua = {
 
   'services.maintenance.title': 'Підтримка та Обслуговування',
   'services.maintenance.desc': 'Постійна підтримка для безперебійної роботи ваших додатків',
-  'services.maintenance.feature1': 'Моніторинг 24/7',
+  'services.maintenance.feature1': 'Моніторинг',
   'services.maintenance.feature2': 'Регулярні оновлення',
   'services.maintenance.feature3': 'Виправлення помилок',
   'services.maintenance.feature4': 'Налаштування продуктивності',

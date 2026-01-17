@@ -43,7 +43,7 @@ export const en = {
   'home.why.expert.desc': 'Experienced developers and designers',
   'home.why.agile.title': 'Agile Process',
   'home.why.agile.desc': 'Flexible and iterative development',
-  'home.why.support.title': '24/7 Support',
+  'home.why.support.title': 'Support',
   'home.why.support.desc': 'Always available when you need us',
 
   'home.cta.title': 'Ready to Start Your Project?',
@@ -77,7 +77,7 @@ export const en = {
 
   'services.cloud.title': 'Cloud Solutions',
   'services.cloud.desc': 'Scalable cloud infrastructure and deployment',
-  'services.cloud.feature1': 'AWS & Azure Integration',
+  'services.cloud.feature1': 'Cloud Integration',
   'services.cloud.feature2': 'DevOps & CI/CD',
   'services.cloud.feature3': 'Cloud Migration',
   'services.cloud.feature4': 'Serverless Architecture',
@@ -91,7 +91,7 @@ export const en = {
 
   'services.maintenance.title': 'Maintenance & Support',
   'services.maintenance.desc': 'Ongoing support to keep your applications running smoothly',
-  'services.maintenance.feature1': '24/7 Monitoring',
+  'services.maintenance.feature1': 'Monitoring',
   'services.maintenance.feature2': 'Regular Updates',
   'services.maintenance.feature3': 'Bug Fixes & Patches',
   'services.maintenance.feature4': 'Performance Tuning',
@@ -160,7 +160,7 @@ export const en = {
   'about.hero.subtitle': 'Building the future of web technology, one project at a time',
 
   'about.story.title': 'Our Story',
-  'about.story.p1': 'Founded in 2014, Novatrix has grown from a small team of passionate developers into a leading IT agency specializing in web application development. Our journey has been driven by a commitment to excellence and a passion for innovation.',
+  'about.story.p1': 'Founded in 2025, Novatrix has grown from a small team of passionate developers into an IT agency specializing in web application development. Our journey has been driven by a commitment to excellence and a passion for innovation.',
   'about.story.p2': 'Today, we work with clients worldwide, helping them transform their ideas into powerful digital solutions. Our team brings together expertise in modern web technologies, user experience design, and agile development methodologies.',
 
   'about.mission.title': 'Our Mission',
